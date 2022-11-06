@@ -1,0 +1,13 @@
+.App {
+  padding-top: 30px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  height: 40px;
+  width: 40px;
+  margin: 0 20px;
+}
